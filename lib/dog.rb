@@ -1,8 +1,10 @@
 # dog.rb
-class Dog 
-end
+class Dog(name,breed)
  @name= name
- @
+ @breed=breed
+ end
+ def name 
+   @name=name 
   
   
   
