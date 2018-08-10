@@ -5,6 +5,8 @@ class Dog(name,breed)
  end
  def name 
    @name=name 
+ end
+ puts 
   
   
   
