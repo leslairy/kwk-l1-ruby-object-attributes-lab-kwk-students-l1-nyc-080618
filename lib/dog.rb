@@ -2,7 +2,7 @@
 class Dog 
 end
  @name= name
- 
+ @
   
   
   
