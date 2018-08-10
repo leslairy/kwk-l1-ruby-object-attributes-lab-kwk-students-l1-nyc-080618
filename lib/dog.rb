@@ -5,7 +5,7 @@ class Dog
  @breed=breed
  end
  def name 
-   name=Le
+   name=lem
  end
  end
  puts Dog.name
