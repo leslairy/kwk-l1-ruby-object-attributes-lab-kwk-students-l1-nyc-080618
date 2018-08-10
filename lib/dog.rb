@@ -7,7 +7,7 @@ class Dog
  def name 
    name
  end
- puts 
+ puts Dog.name
   
   
   
